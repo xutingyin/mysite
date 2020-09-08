@@ -73,8 +73,8 @@ theme: diaspora
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@www.xutingyin.cn:/home/git/repos/blog.git
-        #github: git@github.com:xutingyin/xutingyin.github.io.git
+  repo: #git@www.xutingyin.cn:/home/git/repos/blog.git
+        github: git@github.com:xutingyin/xutingyin.github.io.git
          #coding: git@git.coding.net:sunshinexuty163/my-site.git,master
   branch: master
  
