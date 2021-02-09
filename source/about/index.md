@@ -12,7 +12,5 @@ Hi,我是TingYin.Xu,一名技术爱好者，对未知事物永远充满好奇心
 
 ## wechat
 <img src="http://images.xutingyin.cn/me_wechat.png" alt="me_wechat" width=250px height=250px>
-<audio  name="media" autoplay="autoplay">
-	<source src="http://musics.xutingyin.cn/Alison%20Krauss%20-%20When%20You%20Say%20Nothing%20At%20All.mp3" type="audio/mp3">
-</audio>
+
  

@@ -6,15 +6,15 @@ menu:
   jianshu: https://www.jianshu.com/u/692ab30e4b5b
   500px: https://500px.me/mworld
   # unsplash: https://unsplash.com/@codingsunshine
-  归档: /archives
+  # 归档: /archives
 # 是否显示目录
-TOC: false
+TOC: true
 
 # 是否自动播放音乐
 autoplay: false
 
 # 默认音乐
-mp3: /music/tea-of-mouant.mp3
+mp3: http://musics.xutingyin.cn/zhaolei-cd.mp3
 
 # 首页封面图, 为空时取文章的cover作为封面
 welcome_cover: # /img/welcome-cover.jpg

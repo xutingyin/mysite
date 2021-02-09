@@ -67,10 +67,11 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: diaspora
-index_generator:
-  path: ''
-  per_page: 9
-  order_by: -date
+## 索引归档
+##index_generator:
+##  path: ''
+##  per_page: 9
+##  order_by: -date
 # Deployment
 ## 这里是重点，这里是修改发布地址，因为我们前面已经加了 SSH 密钥信息在 Github 设置里面了，所以只要我们电脑里面持有那两个密钥文件就可以无需密码地跟 Github 做同步。
 ## 需要注意的是这里的 repo 采用的是 ssh 的地址，而不是 https 的。分支我们默认采用 master 分支，以后你翅膀硬了要换其他也无所谓。
